@@ -1,0 +1,1 @@
+// Same as Header.jsx but can be customized for specific sections
